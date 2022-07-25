@@ -1,7 +1,7 @@
  **Game of Thrones: Uma Análise Descritiva**
 
 
----
+![alt text](http://url/to/img.png)
 
 
 Em Maio, completou 2 anos desde o término de Game of Thrones, seriado esse que conquistou milhares de fãs ao redor do mundo, incluindo a mim. Sendo um verdadeiro cinéfilo e um entusiasta de dados, procurei nesse projeto fazer uma análise descritiva de alguns dos principais datasets disponibilizados sobre a série. Sendo assim, como diria Ned Stark: 
