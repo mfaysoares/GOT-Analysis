@@ -10,8 +10,8 @@ Em Maio, completou 2 anos desde o término de Game of Thrones, seriado esse que 
 
 #### **Observações:**
 
-*   Essa análise teve grande inspiração no projeto [Analyzing The Lord of the Rings data](https://https://www.kaggle.com/code/xvivancos/analyzing-the-lord-of-the-rings-data), com alguns conceitos e análises similares;
 *   Os datasets foram retirados da plataforma Kaggle e estão disponíveis nos seguintes links: [Game of Thrones Dataset](https://https://www.kaggle.com/datasets/mylesoneill/game-of-thrones) e [Game of Thrones Script All Seasons
 ](https://https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
-
+*   Os datasets foram retirados da plataforma Kaggle e estão disponíveis nos seguintes links: [Game of Thrones Dataset](https://https://www.kaggle.com/datasets/mylesoneill/game-of-thrones) e [Game of Thrones Script All Seasons
+](https://https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
 
