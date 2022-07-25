@@ -1,4 +1,4 @@
- **Game of Thrones: Uma Análise Descritiva**
+ # **Game of Thrones: Uma Análise Descritiva**
 
 
 ![alt text](https://github.com/mfaysoares/GOT-Analysis/blob/main/cover.png)
